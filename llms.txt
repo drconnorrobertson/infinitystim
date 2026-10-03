@@ -1,0 +1,10 @@
+# InfinityStim
+> Innovative stimulation technology products and solutions.
+
+## About
+InfinityStim offers cutting-edge stimulation technology products designed for wellness and performance optimization. Our solutions combine modern technology with evidence-based approaches to deliver effective results.
+
+## Key Pages
+- Home: https://infinitystim.com/
+- Products: https://infinitystim.com/products
+- About: https://infinitystim.com/about
